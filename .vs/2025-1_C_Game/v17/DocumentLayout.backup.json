@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kunwo\\source\\repos\\miles-tails-prower05\\2025-1_C_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464D7707-4F19-4608-986E-F49F1FA2F954}|2025-1_C_Game.vcxproj|D:\\\uBC15\uAC74\uC6B0\\\uBB38\uC11C\\\uD559\uAD50\\10 \uB300\uD559\uAD50 1\uD559\uB144\\2025-1 C\uD504\uB85C\uADF8\uB798\uBC0D\\MainGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGame.c",
+              "DocumentMoniker": "D:\\\uBC15\uAC74\uC6B0\\\uBB38\uC11C\\\uD559\uAD50\\10 \uB300\uD559\uAD50 1\uD559\uB144\\2025-1 C\uD504\uB85C\uADF8\uB798\uBC0D\\MainGame.c",
+              "ToolTip": "D:\\\uBC15\uAC74\uC6B0\\\uBB38\uC11C\\\uD559\uAD50\\10 \uB300\uD559\uAD50 1\uD559\uB144\\2025-1 C\uD504\uB85C\uADF8\uB798\uBC0D\\MainGame.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T15:33:05.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
